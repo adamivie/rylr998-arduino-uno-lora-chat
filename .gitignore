@@ -1,0 +1,28 @@
+# Arduino build files
+*.hex
+*.elf
+*.o
+*.d
+*.a
+*.map
+*.lst
+*.bin
+
+# Build directories
+build/
+.build/
+
+# IDE files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
